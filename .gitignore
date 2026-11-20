@@ -1,0 +1,7 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+# Project exclude paths
+/Lab14-FernandoAquima/wwwroot/lib/bootstrap/dist/
